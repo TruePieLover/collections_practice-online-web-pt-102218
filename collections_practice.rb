@@ -13,4 +13,4 @@ end
 def sort_array_char_count(stringarray) 
   stringarray.sort do |x,y|
     x<=>y
-    
+   end 
